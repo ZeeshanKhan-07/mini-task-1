@@ -1,4 +1,4 @@
-# Mini Blockchain Simulation in Java
+# Mini Blockchain Simulation
 
 ## 🧠 Theoretical Part
 
